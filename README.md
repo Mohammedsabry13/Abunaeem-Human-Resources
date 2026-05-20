@@ -2,6 +2,11 @@
 
 A professional corporate website for **Abunaeem Human Resources**, an Alexandria-based recruitment and HR services company operating across Egypt, Romania, and Italy. Founded in 2025.
 
+---
+
+⚠️ This template was originally created by Mohammed Sabry
+If you use this, credit is required.
+
 ## 🛠️ Tech Stack
 
 - **HTML5 & CSS3** — semantic structure and custom styling
